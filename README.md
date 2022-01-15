@@ -3,4 +3,4 @@
 
 실행프로그램
 https://github.com/SeonEngineer/SeonheeD2RSkinSupport/releases
- - seonheeD2Rskingenerator_v0.7.zip 를 다운로드. - 
+ - seonheeD2Rskingenerator_v0.7.zip 를 다운로드.
